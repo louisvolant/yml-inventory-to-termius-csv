@@ -1,0 +1,3 @@
+Groups,Label,Tags,Hostname/IP,Protocol,Port
+group1/group2,machine-name1,,machine1.domain.com,ssh,22
+group1/group3,machine-name2,,10.100.110.121,ssh,22
